@@ -1,4 +1,4 @@
-My name is Jan Klajn. Currently I introduce myself to Django. E-mail: janklajn@gmail.com
+My name is Jan Klajn. Currently I introduce myself to Django.
 
 <!---
 JanKlajn/JanKlajn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
